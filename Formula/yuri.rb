@@ -2,9 +2,9 @@ class Yuri < Formula
   desc ''
   homepage 'https://dl.equinox.io/michael_warkentin/yuri'
 
-  url 'https://bin.equinox.io/a/kcNfNiFfyHf/yuri-0.1.0a3-darwin-amd64.tar.gz'
-  sha256 'c0263daa30a0b4b849431f6312e58208a5707356abf33786f570be6926b9c5cd'
-  version '0.1.0a3'
+  url 'https://bin.equinox.io/a/cZmK6yJudX8/yuri-0.1.0-darwin-amd64.tar.gz'
+  sha256 '367433eb4a04f9bb194ec480a3cd2d0121d8087b6167c7cce70962aa14debf28'
+  version '0.1.0'
 
   def install
     bin.install 'yuri'
